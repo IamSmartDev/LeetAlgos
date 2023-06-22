@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\bin\Debug\net6.0\LeetAlgos.exe
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\bin\Debug\net6.0\LeetAlgos.deps.json
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\bin\Debug\net6.0\LeetAlgos.runtimeconfig.json
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\bin\Debug\net6.0\LeetAlgos.dll
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\bin\Debug\net6.0\LeetAlgos.pdb
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.dll
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\refint\LeetAlgos.dll
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.pdb
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\LeetAlgos.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Smart Projects\C# Algos\Algorithms\LeetAlgos\obj\Debug\net6.0\ref\LeetAlgos.dll

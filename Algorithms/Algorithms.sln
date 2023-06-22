@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetAlgos", "LeetAlgos\LeetAlgos.csproj", "{13472E60-4A1D-498C-AC1B-D0FE34C2589B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13472E60-4A1D-498C-AC1B-D0FE34C2589B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13472E60-4A1D-498C-AC1B-D0FE34C2589B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13472E60-4A1D-498C-AC1B-D0FE34C2589B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13472E60-4A1D-498C-AC1B-D0FE34C2589B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D967A33E-2A06-4511-A609-06E921A3E0B3}
+	EndGlobalSection
+EndGlobal
